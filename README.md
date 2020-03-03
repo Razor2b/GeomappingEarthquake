@@ -1,2 +1,2 @@
 #Geomapping himework web site
-https://github.com/Razor2b/GeomappingEarthquake.git
+https://razor2b.github.io/GeomappingEarthquake/
